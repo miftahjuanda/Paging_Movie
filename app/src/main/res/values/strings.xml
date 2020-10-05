@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie Paging</string>
+    <string name="image">image</string>
+    <string name="title">Title</string>
+    <string name="desc">Description</string>
+    <string name="list">List Type</string>
+    <string name="fav">20</string>
+</resources>
